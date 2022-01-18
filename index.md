@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 欧阳昆的网站！
 
 You can use the [editor on GitHub](https://github.com/alnedk/oyk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
